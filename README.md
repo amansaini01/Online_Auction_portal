@@ -1,2 +1,2 @@
-# Online_Auction_portal
-Online Auction Portal in C
+# Online_Auction_Portal
+Online Auction Portal in C using Socket Programming

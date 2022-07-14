@@ -1,0 +1,3 @@
+500	50	Electric
+300	30	ElectricDoor
+30000	3000	Car

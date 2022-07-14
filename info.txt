@@ -1,0 +1,24 @@
+
+Auction Project in C 
+
+CS 307 - System Practicum 
+
+GROUP - 6
+Aman Saini (B19149)
+Gaurav Kumar (B19082)
+Anmolpreet Singh (B19070)
+Kratika Gupta (B19169) 
+Aayush Sharma(B19229) 
+Shreya Aggarwal (B19115)
+
+
+Steps to Run:
+-> go to admin_server directory, use make command
+-> run the server
+-> Open another terminal, go to client directory
+-> use make command, run the client
+
+-> further Steps will be given in programme only.
+
+
+
